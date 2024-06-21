@@ -26,10 +26,14 @@ João Marcelo Novaes Frazão Augusto
 
 **Design:**
 
-Júlia Lück Carvalheira Longman 
+Júlia Lück Carvalheira Longman
+
 Tiago Sampaio Cabral de Mello
+
 Fernanda Pinto Lisboa de Carvalho Plauto
+
 Heloísa Meira Lins e Galvão de Albuquerque
+
 Pedro Augusto de Souza Farias
 
 
