@@ -28,3 +28,4 @@ public class CatadorController {
         catadorService.deleteCatador(id);
     }
 }
+//teste
