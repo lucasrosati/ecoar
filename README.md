@@ -14,10 +14,14 @@ Um dashboard gerencial é um painel visual que apresenta, de maneira centralizad
 
 **Ciência da Computação:**
 
-Luis Eduardo Vieira Melo 
+Luis Eduardo Vieira Melo
+
 Lucas Rosati Cavalcanti Pereira 
+
 Arthur Antonio Duarte Freire 
+
 Ronaldo Tavares Souto Maior Neto 
+
 João Marcelo Novaes Frazão Augusto 
 
 **Design:**
